@@ -102,16 +102,6 @@ h4 {
 }
 
 
-
-ul.product-details {
-    padding-left: 1.2em;
-}
-
-.product-details {
-    font-size: 14px;
-
-}
-
 .signature p {
     font-size: 14px;
 }
@@ -146,6 +136,10 @@ sup {
 
 .three-col-logo {
     width: 130px;
+}
+
+img.product-logo {
+    width: 150px !important;
 }
 //.product-name {
 //    white-space: nowrap;
